@@ -92,6 +92,10 @@ The following table outlines the most influential features for the model:
 | **DUIS**                  | 0.000767    |
 | **CHILDREN_OHE**          | 0.000409    |
 
+## Preview of Dashboard
+
+![Preview of Dashboard](https://raw.githubusercontent.com/HannibalGh/Azure-DE-Project--Auto-Insurance-Analytics/main/visualisations/PowerBi_report.png)
+
 ### Business Implications
 
 These results can assist insurance underwriters in better assessing risk profiles and setting premium prices. The model’s focus on factors such as driving experience, past accidents, and vehicle type highlights important areas for risk evaluation. However, addressing the underperformance for certain demographics (e.g., upper-class males aged 26-39) may further improve the model's robustness.
