@@ -133,11 +133,13 @@ These results can assist insurance underwriters in better assessing risk profile
 - Python and required libraries (e.g., pandas, PySpark)
 - An Azure account with access to Azure resources (Data Lake, Blob Storage, Databricks, etc.) 
 
-## Steps to run project
-1.Run the setup.sh bash script to setup the initial Azure environment.
-2.Navigate to the Databricks studio via the Azure portal
-3.Create a cluster
-4.In the Azure portal, select the storage lake we are using and goto
-5.Create a key and copy the 
-6.Import the .pynb notebook and run it.
-7.Export the .pynb file and then use Microsoft Power Bi to analyse/visualise your data
+
+## Setup Instructions
+
+1. **Run the `setup.sh` bash script** to set up the initial Azure environment.
+2. **Navigate to the Databricks Studio** via the Azure portal.
+3. **Create a cluster** using the Databricks UI.
+4. **In the Azure portal**, select the storage lake you are using.
+5. **Create a key** and copy the required information (tenant_id, client secret, and client id).
+6. **Import the `.pynb` notebook** into Databricks and run it.
+7. **Export the `.pynb` file** and then use Microsoft Power BI to analyze/visualize your data.
