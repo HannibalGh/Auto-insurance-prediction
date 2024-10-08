@@ -12,8 +12,8 @@ SYNAPSE_WORKSPACE="autoinsurancesynapsews"
 SYNAPSE_SQL_POOL="AutoInsuranceSQLPool"
 AML_WORKSPACE="autoinsurancemlworkspace"
 ADF_NAME="AutoInsuranceADF"
-SUBSCRIPTION_ID="a07859c3-454d-4b3f-8813-97facfdd3422"  # Replace with your subscription ID
-LOCAL_FILE_PATH="C:/Users/coolk/OneDrive/Desktop/Coding/Personal Projects/Coding Projects/Azure/Auto insurance prediction/Source/data/Car_Insurance_Claim.csv"  # Replace with the file path to your dataset
+SUBSCRIPTION_ID="Your-Subscription-ID"  # Replace with your subscription ID
+LOCAL_FILE_PATH="Your-data-set-file-path"  # Replace with the file path to your dataset
 BLOB_NAME="Car_Insurance_Claim.csv"
 
 # Login to Azure
